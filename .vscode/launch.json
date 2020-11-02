@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TemperatureWithMethods",
+            "request": "launch",
+            "mainClass": "TemperatureWithMethods",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParameteDemo",
+            "request": "launch",
+            "mainClass": "ParameteDemo",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TemperatureReadings",
+            "request": "launch",
+            "mainClass": "TemperatureReadings",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecretNumber",
+            "request": "launch",
+            "mainClass": "SecretNumber",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DisplayPyramids",
+            "request": "launch",
+            "mainClass": "DisplayPyramids",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DispalyStars",
+            "request": "launch",
+            "mainClass": "DispalyStars",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DisplayEven",
+            "request": "launch",
+            "mainClass": "DisplayEven",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CinemaTicket",
+            "request": "launch",
+            "mainClass": "CinemaTicket",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeTableWithSwitch",
+            "request": "launch",
+            "mainClass": "TimeTableWithSwitch",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassTest",
+            "request": "launch",
+            "mainClass": "PassTest",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindCost<test_1a751c84>",
+            "request": "launch",
+            "mainClass": "FindCost",
+            "projectName": "test_1a751c84"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<test_1a751c84>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "test_1a751c84"
+        }
+    ]
+}
